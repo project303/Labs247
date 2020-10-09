@@ -20,5 +20,6 @@ Materi Labs yang digunakan dalam Training dan Sertifikasi Big Data Analytics
 11. [Yusuf Syaifudin](https://github.com/yusufsyaifudin/indonesia-ner) - POS tag dan NER bahasa Indonesia
 12. [Fam Rashel](https://github.com/famrashel/idn-tagged-corpus) - POS tag bahasa Indonesia
 13. [Louis Owen](https://github.com/louisowen6/NLP_bahasa_resources) - Kumpulan resources NLP bahasa Indonesia terkurasi
+14. [ismail Fahmi](https://youtu.be/dQl_-liKNqo) - Inside Drone Emprit: Natural Processing, Sentiment Analysis, Emotion Analysis
 
 
