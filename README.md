@@ -18,7 +18,7 @@ Materi Labs yang digunakan dalam Training dan Sertifikasi Big Data Analytics
 9. [Rama Prakoso](https://github.com/ramaprakoso/analisis-sentimen/blob/master/kamus/acronym.txt) - Daftar singkatan yang sering digunakan
 10. [Yohanes Gultom](https://github.com/yohanesgultom/nlp-experiments) - POS tag dan NER bahasa Indonesia
 11. [Yusuf Syaifudin](https://github.com/yusufsyaifudin/indonesia-ner) - POS tag dan NER bahasa Indonesia
-12. [Reza Dwi Utomo](#) - spaCy untuk training model NER menggunakan anotasi bahasa Indonesia
+12. [Reza Dwi Utomo](https://github.com/utomoreza/spaCy-NER) - spaCy untuk training model NER menggunakan anotasi bahasa Indonesia
 13. [Fam Rashel](https://github.com/famrashel/idn-tagged-corpus) - POS tag bahasa Indonesia
 14. [Louis Owen](https://github.com/louisowen6/NLP_bahasa_resources) - Kumpulan resources NLP bahasa Indonesia terkurasi
 15. [Ismail Fahmi](https://youtu.be/dQl_-liKNqo) - Inside Drone Emprit: Natural Processing, Sentiment Analysis, Emotion Analysis
