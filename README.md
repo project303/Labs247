@@ -21,7 +21,7 @@ Materi Labs yang digunakan dalam Training dan Sertifikasi Big Data Analytics
 12. [Reza Dwi Utomo](https://github.com/utomoreza/spaCy-NER) - spaCy untuk training model NER menggunakan anotasi bahasa Indonesia
 13. [Fam Rashel](https://github.com/famrashel/idn-tagged-corpus) - POS tag bahasa Indonesia
 14. [Louis Owen](https://github.com/louisowen6/NLP_bahasa_resources) - Kumpulan resources NLP bahasa Indonesia terkurasi
-15. [Ismail Fahmi](https://youtu.be/dQl_-liKNqo) - Inside Drone Emprit: Natural Processing, Sentiment Analysis, Emotion Analysis
+15. [Ismail Fahmi](https://youtu.be/scJVTJZe_yw) - Inside Drone Emprit: Natural Processing, Sentiment Analysis, Emotion Analysis
 16. [Hate Speech Data](https://hatespeechdata.com)
 
 
